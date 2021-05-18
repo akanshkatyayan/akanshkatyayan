@@ -6,7 +6,8 @@
 - Recent Role: Data Analyst - working on a data analysis and transformation using Python.
 - Worked as a Programmer Analyst at Cognizant Tehnology Solutions (May 2014- Aug 2016)
 - Bachelor of Technology(B.Tech) in Information Technology from Government Engineering College Ajmer.
-- 
+- Learn Data Science and Machine Learning
+
 - :mailbox: You can reach me with the links below
 
 [![Telegram](https://img.shields.io/badge/-TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/akanshkatyayan)
@@ -27,7 +28,7 @@
       <td width="25%" align="center">
         <span><strong>IBM OpenPages</strong>
         </span><br><br><br>
-        <img height="64px" src="https://worldvectorlogo.com/logo/openpages.svg">
+        <img height="64px" src="https://cdn.worldvectorlogo.com/logos/openpages.svg">
       </td>
       <td width="25%" align="center">
         <span>𝗚𝗶𝘁</span><br><br><br>
