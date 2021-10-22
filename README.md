@@ -47,7 +47,7 @@
       </td>
       <td width="25%" align="center">
         <span><strong>Documentum</strong></span><br><br><br>
-        <img height="64px" src="https://worldvectorlogo.com/logo/documentum.svg">
+        <img height="64px" src="/master/documentumlogo.png">
       </td>
       <td width="25%" align="center">
         <span><strong>MySql</strong></span><br><br><br>
