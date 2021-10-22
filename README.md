@@ -24,7 +24,7 @@
         <td width="25%" align="center">
         <span><strong>Machine Learning</strong>
         </span><br><br><br>
-        <img height="64px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-128.png">
+        <img height="64px" src="/master/ML.png">
       </td>
       <td width="25%" align="center">
         <span><strong>Data Mining</strong>
