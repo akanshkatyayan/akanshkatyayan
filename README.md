@@ -22,6 +22,26 @@
   <tbody>
     <tr valign="top">
         <td width="25%" align="center">
+        <span><strong>Machine Learning</strong>
+        </span><br><br><br>
+        <img height="64px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-128.png">
+      </td>
+      <td width="25%" align="center">
+        <span><strong>Data Mining</strong>
+        </span><br><br><br>
+        <img height="64px" src="https://cdn.worldvectorlogo.com/logos/openpages.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>NLP</span><br><br><br>
+        <img height="64px" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>AWS</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/pycharm.svg">
+      </td>
+    </tr>
+    <tr valign="top">
+        <td width="25%" align="center">
         <span><strong>Python</strong>
         </span><br><br><br>
         <img height="64px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-128.png">
