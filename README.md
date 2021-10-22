@@ -24,20 +24,20 @@
         <td width="25%" align="center">
         <span><strong>Machine Learning</strong>
         </span><br><br><br>
-        <img height="64px" src="/master/ML.png">
+        <img height="64px" src="https://cdn2.iconfinder.com/data/icons/artificial-intelligence-137/64/ai-artificial_intelligence-learning_machine-brain-weak-1024.png">
       </td>
       <td width="25%" align="center">
         <span><strong>Data Mining</strong>
         </span><br><br><br>
-        <img height="64px" src="https://cdn.worldvectorlogo.com/logos/openpages.svg">
+        <img height="64px" src="https://cdn0.iconfinder.com/data/icons/big-data-1-1/128/Business-Intelligence-Identification-Extraction-Analysis-Data-1024.png">
       </td>
       <td width="25%" align="center">
         <span>NLP</span><br><br><br>
-        <img height="64px" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg">
+        <img height="64px" src="https://cdn3.iconfinder.com/data/icons/artificial-intelligence-125/62/natural-language-processing-linguistics-system-1024.png">
       </td>
       <td width="25%" align="center">
         <span>AWS</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/pycharm.svg">
+        <img height="64px" src="https://worldvectorlogo.com/download/amazon-web-services-2.svg">
       </td>
     </tr>
     <tr valign="top">
