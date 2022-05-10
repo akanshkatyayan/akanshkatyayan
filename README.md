@@ -4,7 +4,7 @@
 
 - Pursuing Master of Science in Big Data Science from the Queen Mary University of London
 - Worked as a Senior Associate Consultant at Infosys Limited
-- Recent Role: Data Analyst - working on a data analysis and transformation using Python.
+- Recent Role: Senior Data Analyst - Worked on Data Pipelines, NLP Services development (NER, Text Summarization), ETL Jobs in Python.
 - Worked as a Programmer Analyst at Cognizant Tehnology Solutions (May 2014- Aug 2016)
 - Bachelor of Technology(B.Tech) in Information Technology from Government Engineering College Ajmer.
 - Learn Data Science and Machine Learning
